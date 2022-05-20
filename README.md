@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m @arifaydogan0
+- 👋 Hi, I’m @arifaydogan0
 - 👀 I’m interested in AI, Algoritmic Trade, Web Automation, Micro Processors
 - 🌱 I’m currently learning C#, Html, Javascript, Css, SQL, LINQ
 - 📫 How to reach me aydoganarif@yahoo.com
