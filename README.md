@@ -25,7 +25,7 @@ int main()
 <a href="https://komarev.com/ghpvc/?username=your-github-arifaydogan0&label=PROFILE+VIEWS">Hakkımızda</a>
 </div>
    
-![Visitors](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&label=PROFILE+VIEWS)   
+![Visitors](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&style=center)   
 <!---
 arifaydogan0/arifaydogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
