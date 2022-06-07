@@ -20,7 +20,7 @@ int main()
 <div align="center"><h3>📫 📫 📫 </h3> </div>  
 &nbsp; &nbsp; How to you reach me <a href="mailto:example@example.com"> aydoganarif@yahoo.com </a>  <br><br>
   
-![Visitors](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&color=green)
+![Visitors](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&color=label=PROFILE+VIEWS)
 
 <!---
 arifaydogan0/arifaydogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
