@@ -22,7 +22,7 @@ int main()
 
 
 <div align="center">
-    <img src="[img/14215699-728xauto.webp](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&label=PROFILE+VIEWS)" alt="">
+![Visitors](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&label=PROFILE+VIEWS)
 </div>
    
 <!---
