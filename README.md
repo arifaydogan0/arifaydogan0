@@ -20,9 +20,7 @@ int main()
 <div align="center"><h3>📫 📫 📫 </h3> </div>  
 &nbsp; &nbsp; How to you reach me <a href="mailto:example@example.com"> aydoganarif@yahoo.com </a>  <br><br>
   
-  
-  
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <!---
 arifaydogan0/arifaydogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
