@@ -21,9 +21,9 @@ int main()
 &nbsp; &nbsp; How to you reach me <a href="mailto:example@example.com"> aydoganarif@yahoo.com </a>  <br><br>
 
 
-<div align="center">
-<a href="https://komarev.com/ghpvc/?username=your-github-arifaydogan0&label=PROFILE+VIEWS">Hakkımızda</a>
-</div>
+<a align="center" href="http://www.google.com">
+
+<img src="[images/resim.jpg](https://camo.githubusercontent.com/8df5c5267c447a8636747f0aaed75d9f0aec586ebb628280157beaad2f8c6764/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d617269666179646f67616e30267374796c653d63656e746572)"></a>
    
 ![Visitors](https://komarev.com/ghpvc/?username=your-github-arifaydogan0&style=center)   
 <!---
