@@ -17,31 +17,35 @@ int main()
 <div align="center"><h3>Languages and Tools</h3> </div>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175339224-6a74573d-58ed-4ee2-908a-0cb4fec1b0b1.png" title="C Programming">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png" title="C Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175337258-86018857-b223-4cb8-870d-f35627f2f344.png" title="C++ Programming">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png" title="C++ Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175336345-2b4a8f69-9f49-44aa-8545-6402066addcb.png" title="C# Programming">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png" title="C# Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175404548-27e21e88-e925-429d-bdee-08e0593796bd.png" title="HTML">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175441549-4993c01f-a065-4cec-9f5f-06157ffcff81.png" title="HTML">
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175404556-aa919a7c-546f-4fd9-b7d1-69da6d56211f.png" title="CSS">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png" title="CSS">
   </a>
   <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175402531-3fc6c771-2c2a-4201-9827-4bdb457e85da.png" title="Bootstrap">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175445863-59277618-4146-45f5-9f61-90c99a8595ba.png" title="Bootstrap">
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175402569-fba47b12-83dc-4e64-a494-83b2067a2d35.png" title="JavaScript">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png" title="JavaScript">
   </a>
 </p>
+
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
-     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175430210-689fc72a-9841-45e2-aecd-165efac0ff38.png" title=".NET">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png" title=".NET">
   </a>
+  <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
+     <img width="77" height="77" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS">
+ </a>
 </p>
 
 <p align="center">
@@ -51,15 +55,29 @@ int main()
 
 
 <!---
-![C logo](https://user-images.githubusercontent.com/96810885/175339224-6a74573d-58ed-4ee2-908a-0cb4fec1b0b1.png)
-![c++ logo](https://user-images.githubusercontent.com/96810885/175337258-86018857-b223-4cb8-870d-f35627f2f344.png)
-![c# logo](https://user-images.githubusercontent.com/96810885/175336345-2b4a8f69-9f49-44aa-8545-6402066addcb.png)
-![HTML logo](https://user-images.githubusercontent.com/96810885/175404548-27e21e88-e925-429d-bdee-08e0593796bd.png)
-![Css logo](https://user-images.githubusercontent.com/96810885/175404556-aa919a7c-546f-4fd9-b7d1-69da6d56211f.png)
-![bootstrap logo](https://user-images.githubusercontent.com/96810885/175402531-3fc6c771-2c2a-4201-9827-4bdb457e85da.png)
-![javascript logo](https://user-images.githubusercontent.com/96810885/175402569-fba47b12-83dc-4e64-a494-83b2067a2d35.png)
-![NET logo](https://user-images.githubusercontent.com/96810885/175430210-689fc72a-9841-45e2-aecd-165efac0ff38.png)
+
+![C logo](https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png)
+![c++ logo](https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png)
+![c# logo](https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png)
+![CCS logo](https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png)
+![NET logo](https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png)
+
+![HTML logo](https://user-images.githubusercontent.com/96810885/175445847-0989b37c-fd9f-4f58-8ebf-8a9dfbb4179f.png)
+![Css logo](https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png)
+![bootstrap logo](https://user-images.githubusercontent.com/96810885/175445863-59277618-4146-45f5-9f61-90c99a8595ba.png)
+![javascript logo](https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png)
+
+![matlab logo](https://user-images.githubusercontent.com/96810885/175445914-b8528bcf-a7ad-4cd5-a3ad-bed0060e5113.png)
+![proteus logo](https://user-images.githubusercontent.com/96810885/175445921-9f103522-c223-42ee-baf1-2dcf6b428b21.png)
+![orcad logo](https://user-images.githubusercontent.com/96810885/175445925-b07fa1cf-9f0b-4a94-9be7-80723bd6815b.png)
+
+![autocad logo](https://user-images.githubusercontent.com/96810885/175445940-9006f90a-8566-43ce-8648-378c3ec1cdd4.png)
+![rhinoceros logo](https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png)
+![solidworks logo](https://user-images.githubusercontent.com/96810885/175445942-03054670-d39d-40a8-9abf-b4902a6a7f87.png)
+![photoshop logo](https://user-images.githubusercontent.com/96810885/175445969-811f0020-2750-4fb2-a750-6adc391505e1.png)
+
 --->
+
 <!---
 arifaydogan0/arifaydogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
