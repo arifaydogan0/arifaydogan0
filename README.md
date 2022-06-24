@@ -17,40 +17,40 @@ int main()
 <div align="center"><h3>Languages and Tools</h3> </div>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png" title="C Programming">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png" title="C Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png" title="C++ Programming">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png" title="C++ Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png" title="C# Programming">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png" title="C# Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175441549-4993c01f-a065-4cec-9f5f-06157ffcff81.png" title="HTML">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175441549-4993c01f-a065-4cec-9f5f-06157ffcff81.png" title="HTML">
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-     <img width="77" height="66" src="https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png" title="CSS">
+     <img width="70" height="60" src="https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png" title="CSS">
   </a>
   <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175445863-59277618-4146-45f5-9f61-90c99a8595ba.png" title="Bootstrap">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445863-59277618-4146-45f5-9f61-90c99a8595ba.png" title="Bootstrap">
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png" title="JavaScript">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png" title="JavaScript">
   </a>
 </p>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png" title=".NET">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png" title=".NET">
   </a>
   <a href="" target="_blank">
-     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS">
+     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS">
   </a>
   <a href="" target="_blank">
-    <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
+    <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact" alt="Top Langs" style="width: 50%;" />
+
 <p align="center">
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact" alt="Top Langs" style="width: 50%;" />
