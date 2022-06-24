@@ -39,6 +39,12 @@ int main()
   </a>
 </p>
 <p align="center">
+  <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
+     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175430210-689fc72a-9841-45e2-aecd-165efac0ff38.png" title=".NET">
+  </a>
+</p>
+
+<p align="center">
   <br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </p>
@@ -52,7 +58,7 @@ int main()
 ![Css logo](https://user-images.githubusercontent.com/96810885/175404556-aa919a7c-546f-4fd9-b7d1-69da6d56211f.png)
 ![bootstrap logo](https://user-images.githubusercontent.com/96810885/175402531-3fc6c771-2c2a-4201-9827-4bdb457e85da.png)
 ![javascript logo](https://user-images.githubusercontent.com/96810885/175402569-fba47b12-83dc-4e64-a494-83b2067a2d35.png)
-
+![NET logo](https://user-images.githubusercontent.com/96810885/175430210-689fc72a-9841-45e2-aecd-165efac0ff38.png)
 --->
 <!---
 arifaydogan0/arifaydogan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
