@@ -53,7 +53,7 @@ int main()
 
 <p align="center">
   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0" alt="Top Langs" data-canonical-src="" style="width: 50%;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0" style="width: 50%;">
    <br><br><br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </p>
