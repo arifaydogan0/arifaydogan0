@@ -46,8 +46,8 @@ int main()
   <a href="" target="_blank">
      <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS">
   </a>
-  <a href="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" target="_blank">
-    <img width="66" height="66" src="" title="Selenium">
+  <a href="" target="_blank">
+    <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
 </p>
 
