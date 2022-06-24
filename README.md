@@ -53,13 +53,12 @@ int main()
 
 <p align="center">
   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan" alt="Top Langs" data-canonical-src="https://github.com/arifaydogan0" style="width: 50%;">
+   <img src="" alt="Top Langs" style="width: 50%;">
    <br><br><br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0)
 <!---
 
 ![C logo](https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png)
