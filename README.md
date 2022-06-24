@@ -58,6 +58,8 @@ int main()
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0)](https://github.com/arifaydogan0/github-readme-stats)
+
 <!---
 
 ![C logo](https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png)
