@@ -50,9 +50,9 @@ int main()
     <img width="66" height="66" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact" alt="Top Langs" style="width: 50%;" />
 <p align="center">
-  <br>
+   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact" alt="Top Langs" style="width: 50%;" />
    <br><br><br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
