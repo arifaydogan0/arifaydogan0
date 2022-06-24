@@ -59,7 +59,7 @@ int main()
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0)
 
 
 <!---
