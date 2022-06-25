@@ -14,7 +14,8 @@ int main()
 &nbsp; &nbsp; I started learn C# because of i dealed on the C and C++ before and I developed many projects in .Net environment(actually started to Python for understand OOP mechanism but after making some progress in Python, I moved on C#).<br><br>
 &nbsp; &nbsp; I’m interested in AI, Algoritmic Trade, Web Automation, Micro Processors, and slowly Android.. I’m currently improving myself on SQL, .NET, ASP.NET, HTML, CSS, Bootstrap, JavaScript.  <br><br>
 
-<div align="center"><h3>Languages and Tools</h3> </div>
+<div align="center">
+   <h3>Languages and Tools</h3> 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
      <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png" title="C Programming">
@@ -50,10 +51,13 @@ int main()
     <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
 </p>
+   </div>
 
 <p align="center">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact" alt="Top Langs" style="width: 50%;" />
+   <a href="https://github.com/arifaydogan0">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact&theme=dark" alt="Top Langs" style="width: 50%;" />
+   </a>
    <br><br><br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </p>
