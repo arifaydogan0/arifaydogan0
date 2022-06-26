@@ -16,7 +16,7 @@ int main()
 &nbsp; &nbsp; I’m interested in AI, Algoritmic Trade, Web Automation, Micro Processors, and littly Android.. I’m currently improving myself on SQL, .NET, ASP.NET, HTML, CSS, Bootstrap, JavaScript.  <br><br>
 
 <div align="center">
-   <h3 style="width:80%;">Languages and Tools</h3> 
+   <h3>Languages and Tools</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
      <img width="60" height="60" src="https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png" title="C Programming">
