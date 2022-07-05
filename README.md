@@ -45,15 +45,15 @@ int main()
   <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
      <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png" title=".NET">
   </a>
-  <a href="" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/Code_Composer_Studio" target="_blank">
      <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS">
   </a>
-  <a href="" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank">
     <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h3>The Other Tools</h3>
 <p align="center">
@@ -81,6 +81,8 @@ int main()
 </p>
 
 </div>
+
+<br>
 
 <div align="center">
    <br>
