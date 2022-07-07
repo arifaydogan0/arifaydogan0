@@ -59,24 +59,31 @@ int main()
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445969-811f0020-2750-4fb2-a750-6adc391505e1.png" title="Photoshop">
+     &nbsp
   </a>
   <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445914-b8528bcf-a7ad-4cd5-a3ad-bed0060e5113.png" title="Matlab">
+     &nbsp
   </a>
   <a href="https://en.wikipedia.org/wiki/Proteus_Design_Suite" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445921-9f103522-c223-42ee-baf1-2dcf6b428b21.png" title="Proteus">
+     &nbsp
   </a>
   <a href="https://en.wikipedia.org/wiki/OrCAD" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445925-b07fa1cf-9f0b-4a94-9be7-80723bd6815b.png" title="OrCAD">
+     &nbsp
   </a>
   <a href="https://en.wikipedia.org/wiki/AutoCAD" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445940-9006f90a-8566-43ce-8648-378c3ec1cdd4.png" title="AutoCAD">
+     &nbsp
   </a>
   <a href="https://en.wikipedia.org/wiki/SolidWorks" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445942-03054670-d39d-40a8-9abf-b4902a6a7f87.png" title="SolidWorks">
+     &nbsp
   </a>
   <a href="https://en.wikipedia.org/wiki/Rhinoceros_3D" target="_blank">
      <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png" title="Rhinoceros 3D">
+     &nbsp
   </a>
 </p>
 
