@@ -1,3 +1,32 @@
+
+
+<div>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
+     <img width="100" height="150" src="https://user-images.githubusercontent.com/96810885/180585975-77d2e0e6-0330-458e-808d-0dd776f1200e.jpg" title=".NET">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Code_Composer_Studio" target="_blank">
+     <img width="100" height="150" src="https://user-images.githubusercontent.com/96810885/180585981-47348da8-5183-4644-913e-7b164f9aaf51.jpg" title="CCS">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank">
+    <img width="100" height="150" src="https://user-images.githubusercontent.com/96810885/180585984-9ad4e1dd-cc12-46b6-85e4-68d21a099896.jpg" title="Selenium">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank">
+    <img width="100" height="150" src="https://user-images.githubusercontent.com/96810885/180585986-660ea3f0-a674-4f39-b5a6-5b441e49e4af.jpg" title="Selenium">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank">
+    <img width="100" height="150" src="https://user-images.githubusercontent.com/96810885/180585988-feb63b65-bde6-4be6-8f09-36b957fe2f95.jpg" title="Selenium">
+  </a>
+</p>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank">
+    <img width="300" height="450" src="https://user-images.githubusercontent.com/96810885/180586223-a6ee549d-b51e-4eea-9d7e-1d7762bb234b.jpg" title="Selenium">
+  </a>
+</p>
+</div>
+
+<br><br><br>
+
 ````C
 #include <stdio.h>
 
@@ -101,6 +130,13 @@ int main()
 </div>
 
 <!---
+![Charles_Babbage_-_1860](https://user-images.githubusercontent.com/96810885/180585975-77d2e0e6-0330-458e-808d-0dd776f1200e.jpg)
+![220px-George_Boole_color](https://user-images.githubusercontent.com/96810885/180585981-47348da8-5183-4644-913e-7b164f9aaf51.jpg)
+![alan turing](https://user-images.githubusercontent.com/96810885/180585984-9ad4e1dd-cc12-46b6-85e4-68d21a099896.jpg)
+![john Bardeen](https://user-images.githubusercontent.com/96810885/180585986-660ea3f0-a674-4f39-b5a6-5b441e49e4af.jpg)
+![220px-Dennis_Ritchie_2011](https://user-images.githubusercontent.com/96810885/180585988-feb63b65-bde6-4be6-8f09-36b957fe2f95.jpg)
+![1604505153267](https://user-images.githubusercontent.com/96810885/180586223-a6ee549d-b51e-4eea-9d7e-1d7762bb234b.jpg)
+
 
 ![C logo](https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png)
 ![c++ logo](https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png)
