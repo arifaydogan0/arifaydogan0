@@ -136,7 +136,7 @@ int main()
 <div align="center">
    <br>
    <a href="https://github.com/arifaydogan0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&langs_count=8&theme=dark" alt="Top Langs" style="width: 50%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&langs_count=10&theme=dark&layout=compact" alt="Top Langs" style="width: 50%;" />
    </a>
    <br><br><br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
