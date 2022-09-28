@@ -85,6 +85,12 @@ int main()
   <a href="https://en.wikipedia.org/wiki/.NET" target="_blank">
      <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png" title=".NET">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Entity_Framework" target="_blank">
+    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192678439-15810e49-db68-45db-adb4-a4d6c94df83c.png" title="Entity Framework Core">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/ASP.NET_Core" target="_blank">
+    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192678447-f34daef2-3eb2-4863-8d4e-7ef6653cb0ed.png" title="Asp.NET Core">
+  </a>
   <a href="https://en.wikipedia.org/wiki/Code_Composer_Studio" target="_blank">
      <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS">
   </a>
@@ -92,13 +98,7 @@ int main()
     <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
   <a href="" target="_blank">
-    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192674391-0d62e1fd-e6a3-4b65-919d-ced2ce6586d9.png" title="Entity Framework Core">
-  </a>
-  <a href="" target="_blank">
-    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192674388-38fad0d2-0a73-4be5-b27b-7a0aed691d0f.png" title="Asp.NET Core">
-  </a>
-  <a href="" target="_blank">
-    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192674393-79010cbe-63fe-4491-b37b-a9c623e314a8.png" title="SQL Server">
+    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192678457-d11ccb05-79fc-4feb-9c7d-b9bdf80bc65c.png" title="SQL Server">
   </a>
 </p>
 
@@ -162,9 +162,11 @@ int main()
 ![C logo](https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png)
 ![c++ logo](https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png)
 ![c# logo](https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png)
-![CCS logo](https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png)
 ![NET logo](https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png)
+![efcore](https://user-images.githubusercontent.com/96810885/192678439-15810e49-db68-45db-adb4-a4d6c94df83c.png)
+![aspNetCoreMvc](https://user-images.githubusercontent.com/96810885/192678447-f34daef2-3eb2-4863-8d4e-7ef6653cb0ed.png)
 ![selenium logo](https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png)
+![CCS logo](https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png)
 
 ![HTML logo](https://user-images.githubusercontent.com/96810885/175445847-0989b37c-fd9f-4f58-8ebf-8a9dfbb4179f.png)
 ![Css logo](https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png)
@@ -180,9 +182,7 @@ int main()
 ![solidworks logo](https://user-images.githubusercontent.com/96810885/175445942-03054670-d39d-40a8-9abf-b4902a6a7f87.png)
 ![rhinoceros logo](https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png)
 
-![aspNetCoreMvc](https://user-images.githubusercontent.com/96810885/192674388-38fad0d2-0a73-4be5-b27b-7a0aed691d0f.png)
-![ef-core](https://user-images.githubusercontent.com/96810885/192674391-0d62e1fd-e6a3-4b65-919d-ced2ce6586d9.png)
-![sqlServer](https://user-images.githubusercontent.com/96810885/192674393-79010cbe-63fe-4491-b37b-a9c623e314a8.png)
+![sqlServer](https://user-images.githubusercontent.com/96810885/192678457-d11ccb05-79fc-4feb-9c7d-b9bdf80bc65c.png)
 --->
 
 <!---
