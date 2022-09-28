@@ -91,6 +91,15 @@ int main()
   <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank">
     <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium">
   </a>
+  <a href="" target="_blank">
+    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192674391-0d62e1fd-e6a3-4b65-919d-ced2ce6586d9.png" title="Entity Framework Core">
+  </a>
+  <a href="" target="_blank">
+    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192674388-38fad0d2-0a73-4be5-b27b-7a0aed691d0f.png" title="Asp.NET Core">
+  </a>
+  <a href="" target="_blank">
+    <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192674393-79010cbe-63fe-4491-b37b-a9c623e314a8.png" title="SQL Server">
+  </a>
 </p>
 
 <br>
@@ -170,6 +179,10 @@ int main()
 ![autocad logo](https://user-images.githubusercontent.com/96810885/175445940-9006f90a-8566-43ce-8648-378c3ec1cdd4.png)
 ![solidworks logo](https://user-images.githubusercontent.com/96810885/175445942-03054670-d39d-40a8-9abf-b4902a6a7f87.png)
 ![rhinoceros logo](https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png)
+
+![aspNetCoreMvc](https://user-images.githubusercontent.com/96810885/192674388-38fad0d2-0a73-4be5-b27b-7a0aed691d0f.png)
+![ef-core](https://user-images.githubusercontent.com/96810885/192674391-0d62e1fd-e6a3-4b65-919d-ced2ce6586d9.png)
+![sqlServer](https://user-images.githubusercontent.com/96810885/192674393-79010cbe-63fe-4491-b37b-a9c623e314a8.png)
 --->
 
 <!---
