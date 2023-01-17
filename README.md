@@ -68,16 +68,16 @@ int main()
      <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png" title="C# Programming">
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-     <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175441549-4993c01f-a065-4cec-9f5f-06157ffcff81.png" title="HTML">
+     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175441549-4993c01f-a065-4cec-9f5f-06157ffcff81.png" title="HTML">
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-     <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png" title="CSS">
+     <img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png" title="CSS">
   </a>
   <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank">
      <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445863-59277618-4146-45f5-9f61-90c99a8595ba.png" title="Bootstrap">
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-     <img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png" title="JavaScript">
+     <img width="50" height="55" src="https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png" title="JavaScript">
   </a>
 </p>
 
