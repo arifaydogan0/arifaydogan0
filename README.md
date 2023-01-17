@@ -145,6 +145,10 @@ int main()
    <a href="https://github.com/arifaydogan0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&langs_count=10&theme=dark&layout=compact" alt="Top Langs" style="width: 50%;" />
    </a>
+   <br>
+   <a href="https://github.com/arifaydogan0">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifaydogan0&theme=dark" alt="Top Langs" style="width: 50%;" />
+   </a>
    <br><br><br><br>
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </div>
@@ -183,6 +187,7 @@ int main()
 ![rhinoceros logo](https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png)
 
 ![sqlServer](https://user-images.githubusercontent.com/96810885/192678457-d11ccb05-79fc-4feb-9c7d-b9bdf80bc65c.png)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 --->
 
 <!---
