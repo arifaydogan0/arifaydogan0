@@ -4,34 +4,34 @@
 <hr size="#">
 <div align="center">
    <a href="https://github.com/arifaydogan0">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=33&duration=7777&color=57040F&background=FF020200&center=true&vCenter=true&lines=Thanks+for+everything..." alt="" style="width: 50%;" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=33&duration=7777&color=57040F&background=FF020200&center=true&vCenter=true&lines=Thanks+for+everything..." alt="" style="width: 30%;" />
    </a>
 </div>
 <p align="center">
   <a href="https://tr.wikipedia.org/wiki/Charles_Babbage" target="_blank">
-     <img width="150" height="220" src="https://user-images.githubusercontent.com/96810885/180585975-77d2e0e6-0330-458e-808d-0dd776f1200e.jpg" title="Charles Babbage">
+     <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585975-77d2e0e6-0330-458e-808d-0dd776f1200e.jpg" title="Charles Babbage">
   </a>
   <a href="https://tr.wikipedia.org/wiki/George_Boole" target="_blank">
-     <img width="150" height="220" src="https://user-images.githubusercontent.com/96810885/180585981-47348da8-5183-4644-913e-7b164f9aaf51.jpg" title="George Boole">
+     <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585981-47348da8-5183-4644-913e-7b164f9aaf51.jpg" title="George Boole">
   </a>
   <a href="https://tr.wikipedia.org/wiki/Alan_Turing" target="_blank">
-    <img width="150" height="220" src="https://user-images.githubusercontent.com/96810885/180585984-9ad4e1dd-cc12-46b6-85e4-68d21a099896.jpg" title="Alan Turing">
+    <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585984-9ad4e1dd-cc12-46b6-85e4-68d21a099896.jpg" title="Alan Turing">
   </a>
   <a href="https://tr.wikipedia.org/wiki/John_Bardeen" target="_blank">
-    <img width="150" height="220" src="https://user-images.githubusercontent.com/96810885/180585986-660ea3f0-a674-4f39-b5a6-5b441e49e4af.jpg" title="John Bardeen">
+    <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585986-660ea3f0-a674-4f39-b5a6-5b441e49e4af.jpg" title="John Bardeen">
   </a>
   <a href="https://tr.wikipedia.org/wiki/Dennis_Ritchie" target="_blank">
-    <img width="150" height="220" src="https://user-images.githubusercontent.com/96810885/180585988-feb63b65-bde6-4be6-8f09-36b957fe2f95.jpg" title="Dennis Ritchie">
+    <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585988-feb63b65-bde6-4be6-8f09-36b957fe2f95.jpg" title="Dennis Ritchie">
   </a>
 </p>
 <p align="center">
   <a href="https://tr.wikipedia.org/wiki/Aaron_Swartz" target="_blank">
-    <img width="750" height="220" src="https://user-images.githubusercontent.com/96810885/180586427-e4417fd9-c594-4bd8-a50f-7ddb6c10f907.jpeg" title="Aaron Swartz">
+    <img width="350" height="110" src="https://user-images.githubusercontent.com/96810885/180586427-e4417fd9-c594-4bd8-a50f-7ddb6c10f907.jpeg" title="Aaron Swartz">
   </a>
 </p>
 <div align="center">
    <a href="https://github.com/arifaydogan0">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=33&duration=7777&color=57040F&background=FF020200&center=true&vCenter=true&lines=Thanks+for+everything..." alt="" style="width: 50%;" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=33&duration=7777&color=57040F&background=FF020200&center=true&vCenter=true&lines=Thanks+for+everything..." alt="" style="width: 30%;" />
    </a>
 </div>
 <hr size="#">
