@@ -52,12 +52,12 @@ int main()
 <div align="center">
    <h1>Hi, I’m @arifaydogan0 👋</h1>
 </div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="360" height="280" />
 
 
 ## I'm a Full Stack Developer!
 - C syntax languages are my loves. 
-- I have a humble embedded systems lab and i enjoy development microcontroller projects.
+- I have a humble embedded systems lab and enjoy development microcontroller projects.
 - On the high-level programming side, I mostly use .net technologies.
 - I’m currently working on a large and special application.
 - I’m looking to collaborate with other .NET developer 👩‍💻
