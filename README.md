@@ -38,7 +38,6 @@
 </div>
 
 <br><br><br>
-<br><br><br>
 
 ````C
 #include <stdio.h>
@@ -50,7 +49,22 @@ int main()
 }
 ````
 
-<div align="center"><h1>Hi, I’m @arifaydogan0 👋</h1></div>
+<div align="center">
+   <h1>Hi, I’m @arifaydogan0 👋</h1>
+</div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
+- 🔭 I’m currently working on a large and special application.
+- 👯 I’m looking to collaborate with other .NET developer 👩‍💻 and mobile app designers 🎨
+## ⏲ What we are doing now:
+I'm developing a project for AFAD and writing few sites.
+I also work as a FreeLancer 🆓.
+### 📩 Connect with me:
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <div align="center"><h3></h3> </div>
 &nbsp; &nbsp;   <br><br>
@@ -153,6 +167,11 @@ int main()
    <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </div>
 
+[instagram]: https://www.instagram.com/arifaydogan0
+[bionluk]: https://bionluk.com/peyksoftware/ekibimle-beraber-mobil-uygulama-gelistirebilirim-332677
+[linkedin]: https://www.linkedin.com/in/arifaydo%C4%9Fan77/
+[medium]: https://medium.com/@aydoganarif
+[gmail]: mailto:aydoganarif@yahoo.com
 <!---
 ![Charles_Babbage_-_1860](https://user-images.githubusercontent.com/96810885/180585975-77d2e0e6-0330-458e-808d-0dd776f1200e.jpg)
 ![220px-George_Boole_color](https://user-images.githubusercontent.com/96810885/180585981-47348da8-5183-4644-913e-7b164f9aaf51.jpg)
