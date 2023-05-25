@@ -55,9 +55,11 @@ int main()
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
-- 🔭 I’m currently working on a large and special application.
-- 👯 I’m looking to collaborate with other .NET developer 👩‍💻 and mobile app designers 🎨
+## I'm a Full Stack Developer!
+- C syntax languages are my loves. I have a humble embedded systems lab and i enjoy development microcontroller projects.
+- On the high-level programming side, I mostly use .net technologies.
+- I’m currently working on a large and special application.
+- I’m looking to collaborate with other .NET developer 👩‍💻 and mobile app designers 🎨
 ## ⏲ What we are doing now:
 I'm developing a project for AFAD and writing few sites.
 I also work as a FreeLancer 🆓.
