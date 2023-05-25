@@ -56,7 +56,8 @@ int main()
 
 
 ## I'm a Full Stack Developer!
-- C syntax languages are my loves. I have a humble embedded systems lab and i enjoy development microcontroller projects.
+- C syntax languages are my loves. 
+- I have a humble embedded systems lab and i enjoy development microcontroller projects.
 - On the high-level programming side, I mostly use .net technologies.
 - I’m currently working on a large and special application.
 - I’m looking to collaborate with other .NET developer 👩‍💻
