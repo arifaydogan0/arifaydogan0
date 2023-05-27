@@ -2,11 +2,6 @@
 
 <div>
 <hr size="#">
-<div align="center">
-   <a href="https://github.com/arifaydogan0">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=33&duration=7777&color=57040F&background=FF020200&center=true&vCenter=true&lines=Thanks+for+everything..." alt="" style="width: 30%;" />
-   </a>
-</div>
 <p align="center">
   <a href="https://tr.wikipedia.org/wiki/Charles_Babbage" target="_blank">
      <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585975-77d2e0e6-0330-458e-808d-0dd776f1200e.jpg" title="Charles Babbage">
@@ -23,10 +18,8 @@
   <a href="https://tr.wikipedia.org/wiki/Dennis_Ritchie" target="_blank">
     <img width="80" height="120" src="https://user-images.githubusercontent.com/96810885/180585988-feb63b65-bde6-4be6-8f09-36b957fe2f95.jpg" title="Dennis Ritchie">
   </a>
-</p>
-<p align="center">
-  <a href="https://tr.wikipedia.org/wiki/Aaron_Swartz" target="_blank">
-    <img width="350" height="110" src="https://user-images.githubusercontent.com/96810885/180586427-e4417fd9-c594-4bd8-a50f-7ddb6c10f907.jpeg" title="Aaron Swartz">
+   <a href="https://tr.wikipedia.org/wiki/Aaron_Swartz" target="_blank">
+    <img width="350" height="120" src="https://user-images.githubusercontent.com/96810885/180586427-e4417fd9-c594-4bd8-a50f-7ddb6c10f907.jpeg" title="Aaron Swartz">
   </a>
 </p>
 <div align="center">
