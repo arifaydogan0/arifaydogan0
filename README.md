@@ -30,7 +30,7 @@
 <hr size="#">
 </div>
 
-<br><br><br>
+<br>
 
 ````C
 #include <stdio.h>
