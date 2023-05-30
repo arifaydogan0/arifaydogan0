@@ -153,7 +153,7 @@ I also work as a FreeLancer 🆓.
 <div align="center">
    <br>
    <a href="https://github.com/arifaydogan0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0&layout=compact" alt="Top Langs" style="width: 50%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0" alt="Top Langs" style="width: 50%;" />
    </a>
    <br>
    <a href="https://github.com/arifaydogan0">
