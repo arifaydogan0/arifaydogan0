@@ -165,7 +165,7 @@ I also work as a FreeLancer 🆓.
   </a>
   <br><br><br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0" alt="Top Langs" style="width: 50%;" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifaydogan0&theme=dark" alt="Top Langs" style="width: 50%;" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifaydogan0&theme=dark" />
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifaydogan0&theme=github_dark"/>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arifaydogan0&bg_color=fafafa&color=708090&line=24292e&point=24292e&area=true&hide_border=true">
    <img src="https://github-profile-trophy.vercel.app/?username=arifaydogan0&theme=onestar"/>
