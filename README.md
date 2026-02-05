@@ -152,7 +152,7 @@ I also work as a FreeLancer 🆓.
 
 <div align="center">
    <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-opal-five.vercel.app?user=&theme=vision-friendly-dark&border_radius=5" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-opal-five.vercel.app?user=arifaydogan0&theme=vision-friendly-dark&border_radius=5" alt="GitHub Streak" /></a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifaydogan0" alt="Top Langs" style="width: 50%;" />
    </a>
