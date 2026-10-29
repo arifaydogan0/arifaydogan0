@@ -40,65 +40,161 @@ int main()
     <li>I’m looking to collaborate with other .NET developer 👩‍💻</li>
   </ul>
 </div>
-
-<div align="center"><h3></h3> </div>
-&nbsp; &nbsp;   <br><br>
+<br><br><br>
 
 <div align="center">
-<h3>Languages and Tools</h3>
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445723-13a43581-4108-4ec1-b168-8ad34748a6d0.png" title="C Programming"></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445727-d9ae8dbb-a3ca-4248-9a81-5d1c5786794f.png" title="C++ Programming"></a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445726-7b0e897d-d7be-4438-9322-b6b46edd574f.png" title="C# Programming"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175441549-4993c01f-a065-4cec-9f5f-06157ffcff81.png" title="HTML"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img width="50" height="50" src="https://user-images.githubusercontent.com/96810885/175445852-17d80a54-71d9-4cc0-8ac0-013d0acd56a8.png" title="CSS"></a>
-  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175445863-59277618-4146-45f5-9f61-90c99a8595ba.png" title="Bootstrap"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img width="50" height="55" src="https://user-images.githubusercontent.com/96810885/175445869-392dbc4b-092d-4f16-8902-b9bf11293ac8.png" title="JavaScript"></a>
-</p>
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/.NET" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175448389-102d84eb-64f2-43de-8113-5077ba425c6f.png" title=".NET"></a>
-  <a href="https://en.wikipedia.org/wiki/Entity_Framework" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192678439-15810e49-db68-45db-adb4-a4d6c94df83c.png" title="Entity Framework Core"></a>
-  <a href="https://en.wikipedia.org/wiki/ASP.NET_Core" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192678447-f34daef2-3eb2-4863-8d4e-7ef6653cb0ed.png" title="Asp.NET Core"></a>
-  <a href="https://en.wikipedia.org/wiki/Code_Composer_Studio" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" title="CCS"></a>
-  <a href="https://en.wikipedia.org/wiki/Selenium_(software)" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/175452961-a975c43d-4260-43ee-928e-dc826cbdf382.png" title="Selenium"></a>
-  <a href="" target="_blank"><img width="55" height="55" src="https://user-images.githubusercontent.com/96810885/192678457-d11ccb05-79fc-4feb-9c7d-b9bdf80bc65c.png" title="SQL Server"></a>
-</p>
-<br>
-
-<h3>The Other Tools</h3>
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" target="_blank"><img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445969-811f0020-2750-4fb2-a750-6adc391505e1.png" title="Photoshop">&nbsp</a>
-  <a href="https://en.wikipedia.org/wiki/MATLAB" target="_blank"><img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445914-b8528bcf-a7ad-4cd5-a3ad-bed0060e5113.png" title="Matlab">&nbsp</a>
-  <a href="https://en.wikipedia.org/wiki/Proteus_Design_Suite" target="_blank"><img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445921-9f103522-c223-42ee-baf1-2dcf6b428b21.png" title="Proteus">&nbsp</a>
-  <a href="https://en.wikipedia.org/wiki/OrCAD" target="_blank"><img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445925-b07fa1cf-9f0b-4a94-9be7-80723bd6815b.png" title="OrCAD">&nbsp</a>
-  <a href="https://en.wikipedia.org/wiki/AutoCAD" target="_blank"><img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445940-9006f90a-8566-43ce-8648-378c3ec1cdd4.png" title="AutoCAD">&nbsp</a>
-  <a href="https://en.wikipedia.org/wiki/SolidWorks" target="_blank">
-     <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445942-03054670-d39d-40a8-9abf-b4902a6a7f87.png" title="SolidWorks">
-     &nbsp
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Rhinoceros_3D" target="_blank">
-     <img width="45" height="45" src="https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png" title="Rhinoceros 3D">
-     &nbsp
-  </a>
-</p>
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=arifaydogan0&theme=dark">
+          <img src="https://github-readme-streak-stats-opal-five.vercel.app?user=arifaydogan0&theme=vision-friendly-dark&border_radius=5" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifaydogan0&theme=github_dark">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifaydogan0&theme=github_dark" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+<br><br><br>
 
-<br>
-
+<!-- TECHNOLOGY MOSAIC: plain HTML; no local assets, CSS or JavaScript.
+     Sizes are estimated relative usage. New additions are provisional.
+     ASP.NET Core uses the .NET Core mark; MAUI uses the official .NET family mark.
+     GitHub applies its own table spacing; metallic effects require a hosted image. -->
 <div align="center">
-   <br>
-   <a href="https://github-readme-streak-stats.herokuapp.com/?user=arifaydogan0&theme=dark">
-     <img src="https://github-readme-streak-stats-opal-five.vercel.app?user=arifaydogan0&theme=vision-friendly-dark&border_radius=5" alt="GitHub Streak" />
-   </a>
-   <br>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifaydogan0&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifaydogan0&theme=github_dark"/>
-  </a>
-  <br><br><br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arifaydogan0&bg_color=fafafa&color=708090&line=24292e&point=24292e&area=true&hide_border=true">
-   <img src="https://github-profile-trophy.vercel.app/?username=arifaydogan0&theme=onestar"/>
-   <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
+<table align="center">
+<tbody>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="3" rowspan="2">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/javascript/javascript-original.svg" width="72" height="72" alt="JavaScript" title="JavaScript"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/html5/html5-original.svg" width="66" height="66" alt="HTML" title="HTML"></a>
+    </td>
+    <td align="center" valign="middle" colspan="4" rowspan="2">
+      <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="78" height="78" alt="SQL Server" title="SQL Server"></a>
+    </td>
+    <td align="center" valign="middle" colspan="3" rowspan="2">
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/visualstudio/visualstudio-original.svg" width="65" height="65" alt="Visual Studio" title="Visual Studio"></a>
+    </td>
+  </tr>
+  <tr height="56">
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="2" rowspan="3">
+      <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/css3/css3-original.svg" width="63" height="63" alt="CSS" title="CSS"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="3">
+      <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/react/react-original.svg" width="62" height="62" alt="React" title="React"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="3">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/bootstrap/bootstrap-original.svg" width="57" height="57" alt="Bootstrap" title="Bootstrap"></a>
+    </td>
+    <td align="center" valign="middle" colspan="4" rowspan="2">
+      <a href="https://learn.microsoft.com/ef/core/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/entityframeworkcore/entityframeworkcore-original.svg" width="75" height="75" alt="EF Core" title="EF Core"></a>
+    </td>
+    <td align="center" valign="middle" colspan="3" rowspan="2">
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git"></a>
+    </td>
+  </tr>
+  <tr height="56">
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/postgresql/postgresql-original.svg" width="53" height="53" alt="PostgreSQL" title="PostgreSQL"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/sqlite/sqlite-original.svg" width="49" height="49" alt="SQLite" title="SQLite"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="59" height="59" alt="GitHub" title="GitHub"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="2">
+      <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/selenium/selenium-original.svg" width="50" height="50" alt="Selenium" title="Selenium"></a>
+    </td>
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://angular.dev/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/angular/angular-original.svg" width="55" height="55" alt="Angular" title="Angular"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/redux/redux-original.svg" width="52" height="52" alt="Redux" title="Redux"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="2">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS"></a>
+    </td>
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="3" rowspan="2">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/c/c-original.svg" width="60" height="60" alt="C" title="C"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/cplusplus/cplusplus-original.svg" width="56" height="56" alt="C++" title="C++"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="3">
+      <a href="https://www.anthropic.com/claude-code" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/claudecode/claudecode-original.svg" width="69" height="69" alt="Claude Code" title="Claude Code"></a>
+    </td>
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="2" rowspan="5">
+      <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/csharp/csharp-original.svg" width="92" height="92" alt="C#" title="C#"></a>
+    </td>
+    <td align="center" valign="middle" colspan="3" rowspan="3">
+      <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/dotnetcore/dotnetcore-original.svg" width="82" height="82" alt="ASP.NET Core" title="ASP.NET Core"></a>
+    </td>
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="3" rowspan="1">
+      <a href="https://www.ccsinfo.com/compilers.php" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/96810885/175448369-fc46e9f9-63d3-4e22-859c-27d4994130fe.png" width="49" height="49" alt="CCS C Compiler" title="CCS C Compiler"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">
+      <a href="https://www.labcenter.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/96810885/175445921-9f103522-c223-42ee-baf1-2dcf6b428b21.png" width="47" height="47" alt="Proteus" title="Proteus"></a>
+    </td>
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="2" rowspan="1">
+      <a href="https://www.ni.com/en/shop/labview.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/labview/labview-original.svg" width="44" height="44" alt="LabVIEW" title="LabVIEW"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="1">
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/matlab/matlab-original.svg" width="43" height="43" alt="MATLAB" title="MATLAB"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="1">
+      <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/photoshop/photoshop-original.svg" width="42" height="42" alt="Photoshop" title="Photoshop"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="3">
+      <a href="https://openai.com/codex/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/codex/codex-original.svg" width="69" height="69" alt="Codex" title="Codex"></a>
+    </td>
+  </tr>
+  <tr height="56">
+    <td align="center" valign="middle" colspan="3" rowspan="2">
+      <a href="https://dotnet.microsoft.com/apps/maui" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" width="60" height="60" alt=".NET MAUI" title=".NET MAUI"></a>
+    </td>
+    <td align="center" valign="middle" colspan="2" rowspan="2">
+      <a href="https://www.orcad.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/96810885/175445925-b07fa1cf-9f0b-4a94-9be7-80723bd6815b.png" width="40" height="40" alt="OrCAD" title="OrCAD"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="2">
+      <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/96810885/175445940-9006f90a-8566-43ce-8648-378c3ec1cdd4.png" width="37" height="37" alt="AutoCAD" title="AutoCAD"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="2">
+      <a href="https://www.solidworks.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/96810885/175445942-03054670-d39d-40a8-9abf-b4902a6a7f87.png" width="36" height="36" alt="SOLIDWORKS" title="SOLIDWORKS"></a>
+    </td>
+    <td align="center" valign="middle" colspan="1" rowspan="2">
+      <a href="https://www.rhino3d.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/96810885/175445941-9e2ac05d-7d82-445d-aa3f-32d7b6b602cb.png" width="34" height="34" alt="Rhino" title="Rhino"></a>
+    </td>
+  </tr>
+  <tr height="56">
+  </tr>
+</tbody>
+</table>
+</div>
+<!-- END TECHNOLOGY MOSAIC -->
+
+<br><br><br>
+<div align="center">
+     <img width="auto" height="28" src="https://komarev.com/ghpvc/?username=arifaydogan0">
 </div>
 
 
